@@ -1,0 +1,47 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/src/main/**/target/
+**/src/test/**/target/
+**/frontend/temp/
+**/frontend/temp/
+**/frontend/src/main/react/public/img/*
+**/node_modules
+api-rest/src/main/resources/static
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+frontend/src/main/react/public/img/animal3_1.jpg
+frontend/src/main/react/public/img/animal3.jpg
+frontend/src/main/react/public/img/animal3_1.jpg
+frontend/src/main/react/public/img/animal3_2.jpg
+model/src/main/resources/_bk_docker-compose.yml
+boot/src/main/resources/application.properties
+boot/src/main/resources/application.properties
+model/src/main/resources/docker-compose.yml

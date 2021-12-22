@@ -1,0 +1,43 @@
+Frontend:
+    width/height:
+        max- (*6): 6, 12, 18, 24, 30, 36, 42, 48, 52, 58... 84, 120, 600
+        Responsive: 18vw, 90vw
+        Img profile: 84px;
+
+    margin: 12, 24
+    padding: 6, 12, 18, 24, 42
+    border:
+        border-radius: 20px
+
+    font-size: 12 18 24, 28, 32, 36
+
+    top, right, bottom, right: like width
+
+    query max-widths: none
+
+
+
+
+Michiapp @Santi Bello
+
+# BD Diagram
+https://dbdiagram.io/d/6156b81b825b5b01461c0540
+
+# Use Cases // Casos de uso
+
+getUser
+addUser
+deleteUser
+editUser // i.e. edit name or email
+getUsersByLocalization // get ~10 Users to show at home
+
+getCat
+getCatsByUser
+
+addLike
+getMatchByUser // reciprocal likes
+deleteMatch // or deleteLike
+
+addUserProfile
+editUserProfile
+deleteUserProfile
