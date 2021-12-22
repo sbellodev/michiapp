@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto FCT
 
 Santi Bello
