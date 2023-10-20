@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/michiapp/static/js/main.6b9ad9ad.js",
+    "main.js": "/michiapp/static/js/main.d1b59f77.js",
     "static/js/787.9e7e7aa6.chunk.js": "/michiapp/static/js/787.9e7e7aa6.chunk.js",
     "static/media/Roboto-regular.woff2": "/michiapp/static/media/Roboto-regular.4673b4537a84c7f7a130.woff2",
     "index.html": "/michiapp/index.html",
-    "main.6b9ad9ad.js.map": "/michiapp/static/js/main.6b9ad9ad.js.map",
+    "main.d1b59f77.js.map": "/michiapp/static/js/main.d1b59f77.js.map",
     "787.9e7e7aa6.chunk.js.map": "/michiapp/static/js/787.9e7e7aa6.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b9ad9ad.js"
+    "static/js/main.d1b59f77.js"
   ]
 }
